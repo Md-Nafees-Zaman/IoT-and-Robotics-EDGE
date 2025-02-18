@@ -20,9 +20,11 @@ LDR.
 
 Modules:
 
+GSM and GPRS,
 LCD_i2c,
 Keypad,
-Servo motor.
+Servo motor,
+Relay.
 
 
 Applications used:
