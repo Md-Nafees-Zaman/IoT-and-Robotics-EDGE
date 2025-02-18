@@ -36,5 +36,14 @@ Arduino IDE.
 
 
 Abbreviations:
+
+EDGE = Enhancing Digital Government and Economy,
+GPRS = General Packet Radio Service,
+GSM = Global Systems for Mobile,
+IDE = Integrated Development Environment,
+IIT = Institute of Information and Technology,
+I2C = Inter-Integrated Circuit,
+JU = Jahangirnagar University,
+LCD = Liquid Crystal Display,
 LDR = Light Dependent Resistor,
-PIR = Passive Infra_Red.
+PIR = Passive Infra-Red.
