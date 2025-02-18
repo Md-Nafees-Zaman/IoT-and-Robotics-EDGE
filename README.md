@@ -1,4 +1,4 @@
-Here, I have uploaded the class works of 'IoT and Robotics' Course conducted by EDGE and supported by IIT,JU. We worked on: 
+Here, I have uploaded the class works at 'IoT and Robotics' Course conducted by EDGE and supported by IIT,JU. I worked on: 
 
 Microcontrollers:
 
