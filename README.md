@@ -1,4 +1,36 @@
-Here, I have uploaded the basic codes written for class works at 'IoT and Robotics' Course for beginners. I have work with several sensors including Soil Moisture, Ultrasonic, LDR along with microcontrollers like Arduino and ESP32. 
+Here, I have uploaded the class works of 'IoT and Robotics' Course conducted by EDGE and supported by IIT,JU. We worked on: 
+
+Microcontrollers:
+
+Arduino Uno, Nano, Mega
+ESP8266, ESP32
+Raspberry PI zero, 2
+
+
+Sensors:
+
+Fingerprint sensor
+Gas sensor
+Temperature sensor
+Humidity sensor
+Ultrasonic sensor
+Soil Moisture sensor
+LDR
+
+
+Modules:
+
+LCD_i2c
+Keypad
+Servo motor
+
+
+Applications used:
+
+Blynk
+Arduino IDE
+
+
 
 Abbreviations:
 LDR = Light Dependent Resistor
