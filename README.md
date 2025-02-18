@@ -15,7 +15,8 @@ Temperature sensor,
 Humidity sensor,
 Ultrasonic sensor,
 Soil Moisture sensor,
-LDR.
+LDR,
+PIR sensor.
 
 
 Modules:
@@ -35,4 +36,5 @@ Arduino IDE.
 
 
 Abbreviations:
-LDR = Light Dependent Resistor.
+LDR = Light Dependent Resistor,
+PIR = Passive Infra_Red.
