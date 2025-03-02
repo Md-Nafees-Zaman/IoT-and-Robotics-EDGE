@@ -35,7 +35,7 @@ Arduino IDE.
 
 
 
-Abbreviations:
+Acronyms:
 
 EDGE = Enhancing Digital Government and Economy,
 GPRS = General Packet Radio Service,
