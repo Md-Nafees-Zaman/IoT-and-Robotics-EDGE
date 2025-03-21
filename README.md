@@ -2,21 +2,21 @@ Here, I have uploaded the class works at 'IoT and Robotics' Course conducted by 
 
 Microcontrollers:
 
-Arduino Uno, Nano, Mega,
-ESP8266, ESP32,
-Raspberry PI zero, 2.
+Arduino Uno, Nano, Mega, <br>
+ESP8266, ESP32,  <br>
+Raspberry PI zero, 2.   <br>
 
 
 Sensors:
 
-Fingerprint sensor,
-Gas sensor,
-Temperature sensor,
-Humidity sensor,
-Ultrasonic sensor,
-Soil Moisture sensor,
-LDR,
-PIR sensor.
+Fingerprint sensor,   <br>
+Gas sensor,    <br>
+Temperature sensor,   <br>
+Humidity sensor,   <br>
+Ultrasonic sensor,   <br>
+Soil Moisture sensor,    <br>
+LDR,   <br>
+PIR sensor.    <br>
 
 
 Modules:
@@ -35,14 +35,14 @@ Arduino IDE.
 
 
 
-Acronyms:
-
-EDGE = Enhancing Digital Government and Economy,
-GPRS = General Packet Radio Service,
-GSM = Global Systems for Mobile,
-IDE = Integrated Development Environment,
-IIT = Institute of Information and Technology,
-I2C = Inter-Integrated Circuit,
+Acronyms:    <br>
+   
+EDGE = Enhancing Digital Government and Economy,   <br>
+GPRS = General Packet Radio Service,     <br>
+GSM = Global Systems for Mobile,     <br>
+IDE = Integrated Development Environment,    <br>  
+IIT = Institute of Information and Technology,    <br>
+I2C = Inter-Integrated Circuit,    <br>
 JU = Jahangirnagar University,
 LCD = Liquid Crystal Display,
 LDR = Light Dependent Resistor,
