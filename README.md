@@ -40,7 +40,7 @@ Acronyms:    <br>
 EDGE = Enhancing Digital Government and Economy,   <br>
 GPRS = General Packet Radio Service,     <br>
 GSM = Global Systems for Mobile,     <br>
-IDE = Integrated Development Environment,    <br>  
+IDE = Integrated Development Environment,   
 IIT = Institute of Information and Technology,    <br>
 I2C = Inter-Integrated Circuit,    <br>
 JU = Jahangirnagar University,   <br>
