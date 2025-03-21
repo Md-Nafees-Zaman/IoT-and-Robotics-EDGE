@@ -21,17 +21,17 @@ PIR sensor.    <br>
 
 Modules:
 
-GSM and GPRS,
-LCD_i2c,
-Keypad,
-Servo motor,
-Relay.
+GSM and GPRS,   <br>
+LCD_i2c,   <br>
+Keypad,    <br>
+Servo motor,    <br>
+Relay.    <br>
 
 
 Applications used:
 
-Blynk,
-Arduino IDE.
+Blynk,    <br>
+Arduino IDE.   <br>
 
 
 
@@ -43,7 +43,7 @@ GSM = Global Systems for Mobile,     <br>
 IDE = Integrated Development Environment,    <br>  
 IIT = Institute of Information and Technology,    <br>
 I2C = Inter-Integrated Circuit,    <br>
-JU = Jahangirnagar University,
-LCD = Liquid Crystal Display,
-LDR = Light Dependent Resistor,
-PIR = Passive Infra-Red.
+JU = Jahangirnagar University,   <br>
+LCD = Liquid Crystal Display,    <br>
+LDR = Light Dependent Resistor,   <br>
+PIR = Passive Infra-Red.     <br>
